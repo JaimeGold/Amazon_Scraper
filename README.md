@@ -25,7 +25,6 @@ Before running the project, ensure you have the following dependencies installed
 - Python 3.8+
 - Selenium
 - BeautifulSoup4
-- Requests
 - Chrome WebDriver (Compatible with your version of Google Chrome)
 You can install the Python dependencies using:
 ```bash
@@ -35,7 +34,6 @@ pip install -r requirements.txt
 ```txt
 beautifulsoup4
 selenium
-requests
 ```
 ## Setup Instructions
 1. **Clone the repository**:
