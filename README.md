@@ -1,13 +1,13 @@
 # Amazon_Scraper
 This project scrapes Amazon's best sellers in the kitchen category and extracts information such as product name, price, review count, and ratings. The scraped data is saved into a CSV file. This project uses **Selenium** to simulate scrolling and load all 50 best-selling items on the page.
 ## Table of Contents
-- [Project Overview](##Project_Overview)
-- [Features](##Features)
-- [Requirements](##Requirements)
-- [Setup Instructions](##Setup_Instructions)
-- [Usage](##Usage)
-- [Output](##Output)
-- [Notes](##Notes)
+- [Project Overview](#Project_Overview)
+- [Features](#Features)
+- [Requirements](#Requirements)
+- [Setup Instructions](#Setup_Instructions)
+- [Usage](#Usage)
+- [Output](#Output)
+- [Notes](#Notes)
 ## Project Overview
 The script automates collecting product information from the Amazon Best Sellers page. Using Selenium, the script simulates scrolling to load all items. Once all items are loaded, the data is scraped using BeautifulSoup and saved in a CSV file.
 ## Features
